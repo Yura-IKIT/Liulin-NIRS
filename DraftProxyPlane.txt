@@ -1,0 +1,15 @@
+In FreeCAD, the Draft Workbench provides tools for 2D drawing and drafting, including the ability to create proxy planes. A proxy plane is a virtual plane that can be used as a reference for drawing and modeling.
+
+Here are the steps to create a proxy plane in FreeCAD:
+
+    Open FreeCAD and switch to the Draft Workbench.
+
+    Click on the "Create a new proxy plane" button in the Draft toolbar. This will create a new proxy plane centered at the origin of the coordinate system.
+
+    Use the "Translate" or "Rotate" tools in the Draft toolbar to move or rotate the proxy plane to the desired location and orientation.
+
+    To draw on the proxy plane, select the "Draft" tool from the toolbar, and then select the desired drawing tool (e.g., line, rectangle, circle, etc.). Click on the proxy plane to start drawing.
+
+    To switch back to drawing in the main XY plane, select the "Switch to XY plane" button in the Draft toolbar.
+
+Note that the proxy plane is a virtual object and does not affect the geometry of the underlying 3D objects. However, it can be used as a visual reference for drawing and modeling. You can create multiple proxy planes in a FreeCAD document, and they can be used in combination with other drafting and modeling tools to create complex designs.
